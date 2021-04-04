@@ -1,0 +1,21 @@
+.bg-cinnamon {
+    background: #802D45;
+}
+
+a {
+    color: #FFFFFF;
+}
+
+a:hover,
+a:focus {
+    color: #bbb;
+}
+
+.disabled {
+    color: #BBC0C4 !important;
+}
+
+.list-group-item.active {
+    background-color: #a01840;
+    border-color: #a01840;
+}
